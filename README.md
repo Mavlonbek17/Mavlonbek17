@@ -36,7 +36,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
  <a href="https://stackoverflow.com/users/17987927/mavlonbek-zaynobiddinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
  
- <a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg/videos" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:YouTube_Logo_2017.svg#/media/File:YouTube_full-color_icon_(2017).svg" width="100" height="100" /></a></p>
+ <a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg/videos" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" width="100" height="100" /></a></p>
 
 
 
