@@ -137,7 +137,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
     <summary>&#127942 <b>GitHub Awards</b></summary><br/> -->
 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight)
 
 <!-- </details> -->
 
