@@ -30,7 +30,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 </p>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/Mavlonbek17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.github.com/Mavlonbek17" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a> 
 
 <a href="https://www.linkedin.com/in/eyüp-barlas-669932193/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
