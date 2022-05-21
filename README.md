@@ -1,4 +1,4 @@
-Hi 👋 My name is Eyüp Barlas
+Hi 👋 My name is Mavlonbek Zaynobiddinov
 ============================
 
 Software Engineer | Open Source Developer | Blockchain Enthusiast
