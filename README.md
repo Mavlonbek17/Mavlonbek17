@@ -111,20 +111,20 @@ Wanna see some of my future projects? Join today!
 
 <!-- markdownlint-disable MD033 -->
 
-<details>
+<!-- <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
+<!-- - [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
 - [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
 - [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
 - [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
-- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework)
+- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework) -->
 <!-- BLOG-POST-LIST:END -->
 
-</details>
+<!-- </details> --> -->
 
-<details>
+<!-- <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
@@ -132,7 +132,7 @@ Wanna see some of my future projects? Join today!
 
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> --> -->
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -144,7 +144,7 @@ Wanna see some of my future projects? Join today!
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+[![Mavlonbek Zaynobiddinov Github Status](https://readme-stats.Mavlonbek17.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/Mavlonbek17/github-readme-stats) [![Top Language](https://readme-stats.Mavlonbek17.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/Mavlonbek17/github-readme-stats)
 
 </details>
 
