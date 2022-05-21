@@ -57,11 +57,14 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 <a href="https://github.com/Mavlonbek17/ToDoApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mavlonbek17&repo=ToDoApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 </div> -->
 
+
+
 <div width="100%" align="center">
-[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Mavlonbek WakaTime Status IntelIj](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight)align="right"](https://github.com/anuraghazra/github-readme-stats)[![Mavlonbek WakaTime Status IntelIj](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight)align="left"](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
-
 
 # Hi, Mavlonbek Zaynobiddinov (💻💖☕)
 
