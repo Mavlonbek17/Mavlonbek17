@@ -101,11 +101,11 @@ Wanna see some of my future projects? Join today!
 
 [![Facebook](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.gg/KzFmddJ2)
 
-## 🍀 Sponsors and Supporters
+<!-- ## 🍀 Sponsors and Supporters
 
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
+[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com) -->
 
-and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
+<!-- and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do! -->
 
 ---
 
@@ -128,11 +128,8 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu)
-2. ❗️ Opened issue [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-3. ❌ Closed PR [#60](https://github.com/warengonzaga/buymeacoffee.js/pull/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+<!-- 1. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu) -->
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -140,7 +137,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17)
 
 </details>
 
