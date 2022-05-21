@@ -82,7 +82,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 📽️  Hobby is taking Tech Videos on YouTube
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/AN8Fgj01.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/tDwVIl01" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 - 💝 Author of multiple open source projects (~50 to date).
