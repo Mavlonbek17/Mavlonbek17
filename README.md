@@ -143,7 +143,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <!-- <details> -->
     * 📈 GITHUB STATUS
-[![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Mavlonbek17/github-readme-stats) 
+[![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17)](https://github.com/Mavlonbek17/github-readme-stats) 
 [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 
