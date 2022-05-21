@@ -144,7 +144,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 <!-- <details> -->
     * 📈 GITHUB STATUS
 [![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mavlonbek17/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact)](https://github.com/Mavlonbek17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&theme=tokyonight)](https://github.com/Mavlonbek17/github-readme-stats)
 
 
 
