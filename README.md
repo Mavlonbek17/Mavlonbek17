@@ -1,7 +1,7 @@
 Hi 👋 My name is Mavlonbek Zaynobiddinov
 ============================
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack-Web-Developer;Love-Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 Software Engineer | Computer Science Student | Daily Learner
