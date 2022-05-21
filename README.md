@@ -132,26 +132,26 @@ Wanna see some of my future projects? Join today!
 
 <!--END_SECTION:activity-->
 
-<!-- </details> --> -->
+<!-- </details> --> * 🏆 GITHUB AWARDS
 
 <!-- <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/> -->
 
-* 🏆 GITHUB AWARDS
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17)
 
 <!-- </details> -->
 
-<!-- <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/> -->
-* 📈 GITHUB STATUS
+<!-- <details> -->
+    * 📈 GITHUB STATUS
+
 [![Mavlonbek Zaynobiddinov Github Status](https://readme-stats.warengonzaga.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/Mavlonbek17/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 <!-- </details> -->
 
 <!-- markdownlint-enable MD033 -->
-
-![Metrics](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/github-metrics.svg)
+<!-- 
+![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
 
 ---
 
@@ -163,4 +163,4 @@ Wanna see some of my future projects? Join today!
 [facebook]: https://facebook.com/warengonzagaofficial
 [twitter]: https://twitter.com/warengonzaga
 [instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga
+[youtube]: https://youtube.com/warengonzaga -->
