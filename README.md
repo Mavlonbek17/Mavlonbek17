@@ -47,7 +47,8 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <a href="http://www.github.com/Mavlonbek17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mavlonbek17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Mavlonbek17"><img src="https://activity-graph.herokuapp.com/graph?username=Mavlonbek17&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/eyupbarlas"><img src="https://activity-graph.herokuapp.com/graph?username=eyupbarlas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <b>Top Repositories</b>
 
