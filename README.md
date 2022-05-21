@@ -99,7 +99,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
+[![Facebook](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.gg/KzFmddJ2)
 
 ## 🍀 Sponsors and Supporters
 
