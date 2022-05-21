@@ -93,7 +93,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,c,cs,js,react,mongodb,mysql,py,django,idea,java,stackoverflow,eclipse,flask,docker,git,bash,jquery,nginx,vscode,bootstrap,discord,github&theme=light)
 
 ## 🌏 My Community
 
