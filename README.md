@@ -100,8 +100,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 ## 🌏 My Community
 
 Wanna see some of my future projects? Join today!
-
-[![Facebook](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.gg/KzFmddJ2)
+<a href="https://discord.gg/KzFmddJ2" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="45" height="45" /></a>
 
 <!-- ## 🍀 Sponsors and Supporters
 
