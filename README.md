@@ -134,10 +134,8 @@ Wanna see some of my future projects? Join today!
 
 <!-- </details> --> -->
 
-<details>
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17)
 
-</details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
