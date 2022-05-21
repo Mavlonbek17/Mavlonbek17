@@ -82,19 +82,8 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 📽️  Hobby is taking Tech Videos on YouTube
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
-
-- 💝 Author of multiple open source projects (~50 to date).
-- 💼 Community Manager, [thirdweb](https://github.com/thirdweb-dev), Web3 SDK for Developers, No Code Tools for NFT Artists.
-- 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
-- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
-- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
-- 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
-- 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/warengonzaga).
 
 ## 🎧 Spotify Playing
 
