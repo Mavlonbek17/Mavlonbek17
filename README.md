@@ -132,15 +132,21 @@ Wanna see some of my future projects? Join today!
 
 <!--END_SECTION:activity-->
 
-<!-- </details> --> GITHUB AWARDS
+<!-- </details> --> -->
+
+<!-- <details> -->
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17)
 
+<!-- </details> -->
 
-GITHUB STATUS
+<!-- <details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/> -->
 
-[![Mavlonbek Zaynobiddinov Github Status](https://readme-stats.warengonzaga.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/Mavlonbek17/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/Mavlonbek17/github-readme-stats)
+[![Mavlonbek Zaynobiddinov Github Status](https://readme-stats.warengonzaga.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/Mavlonbek17/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
+<!-- </details> -->
 
 <!-- markdownlint-enable MD033 -->
 
