@@ -61,21 +61,29 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 
 
-# Hi, I'm Waren Gonzaga (💻💖☕)
+# Hi, Mavlonbek Zaynobiddinov (💻💖☕)
 
-📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://m.facebook.com/mavlonbek.zaynobiddinov.3?ref=104) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Zaynobiddinov_M) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+Software Engineer | Computer Science Student | Daily Learner
+-----------------------------------------------------------------
+
+I'm a 3rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub.
+
+* 🌍  I live in Warsaw, Poland
+* ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
+* 🧠  I'm learning  Java
+* 🤝  I'm open to collaborate on interesting, fun, cool projects
+* 👨‍💻  I Love Coding | And Open for Job Opportunities
+* 📽️  Hobby is taking Tech Videos on YouTube
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
-
-🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Community Manager, [thirdweb](https://github.com/thirdweb-dev), Web3 SDK for Developers, No Code Tools for NFT Artists.
