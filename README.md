@@ -1,18 +1,20 @@
 Hi 👋 My name is Mavlonbek Zaynobiddinov
 ============================
 
-Software Engineer | Open Source Developer | Blockchain Enthusiast
+Software Engineer | Computer Science Student | Daily Learner
 -----------------------------------------------------------------
 
-I'm a 3rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub. Currently I'm working on Blockchain Development.
+I'm a 3rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub.
 
-* 🌍  I'm based in Poland
+* 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
-* 🧠  I'm learning Solidity, Java
+* 🧠  I'm learning  Java
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
+* 👨‍💻  I Love Coding | And Open for Job Opportunities
+* 📽️  Hobby is taking Tech Videos on YouTube
+
 
 ### Skills
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -49,4 +51,4 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/eyupbarlas/New-Coin-Listing-Detection-Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eyupbarlas&repo=New-Coin-Listing-Detection-Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eyupbarlas/Crypto-Trading-Bot-with-Tradingview-Binance-Heroku-and-Telegram" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eyupbarlas&repo=Crypto-Trading-Bot-with-Tradingview-Binance-Heroku-and-Telegram&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Mavlonbek17/CurrencyConverster-Javascript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mavlonbek17&repo=CurrencyConverter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mavlonbek17/Airline-Django-web-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mavlonbek17&repo=Airline|Booking System Django&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
