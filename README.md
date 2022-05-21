@@ -1,6 +1,8 @@
 Hi 👋 My name is Mavlonbek Zaynobiddinov
 ============================
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack-Web-Developer;Second+line+of+text)](https://git.io/typing-svg)
+
 Software Engineer | Computer Science Student | Daily Learner
 -----------------------------------------------------------------
 
