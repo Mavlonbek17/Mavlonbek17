@@ -59,13 +59,17 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight)](https://github.com/mavlonbek/github-readme-stats)
+
+
 
 
 # Hi, Mavlonbek Zaynobiddinov (💻💖☕)
 
 📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
-##My FOLLOW ME ON ALL SOCIAL MEDIA BELOW
+<!-- markdownlint-enable MD033 -->
+##  All My Social Media Below
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://m.facebook.com/mavlonbek.zaynobiddinov.3?ref=104) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Zaynobiddinov_M) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg)[![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-green)](https://stackoverflow.com/users/17987927/mavlonbek-zaynobiddinov)[![Instagram](https://img.shields.io/badge/-INSTAGRAM-blue)](https://www.instagram.com/mz_vlogs_/?hl=en)
 
