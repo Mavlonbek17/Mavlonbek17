@@ -98,8 +98,6 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 ![skills](https://skillicons.dev/icons?i=html,css,c,cs,js,react,mongodb,mysql,py,django,idea,java,stackoverflow,eclipse,flask,docker,git,bash,jquery,nginx,vscode,bootstrap,discord,github&theme=light)
 
 ## 🌏 My Community
-
-Wanna see some of my future projects? Join today!
 <a href="https://discord.gg/KzFmddJ2" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="45" height="45" /></a>
 
 <!-- ## 🍀 Sponsors and Supporters
@@ -146,7 +144,8 @@ Wanna see some of my future projects? Join today!
 <!-- <details> -->
     * 📈 GITHUB STATUS
 
-[![Mavlonbek Zaynobiddinov Github Status](https://readme-stats.warengonzaga.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/Mavlonbek17/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=Mavlonbek17&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=Mavlonbek17&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+
 
 <!-- </details> -->
 
