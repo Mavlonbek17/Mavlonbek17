@@ -61,7 +61,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 
 
-# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕) And I love Coding
+# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕)
 
 📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
@@ -86,7 +86,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 * 📽️  Hobby is taking Tech Videos on YouTube
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 --> You Tube Channel Statics
 <a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
