@@ -96,7 +96,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l) -->
 
-## 🔧 Technologies
+## 🔧 SKILLS and Tools I use
 
 ![skills](https://skillicons.dev/icons?i=html,css,c,cs,js,react,mongodb,mysql,py,django,idea,java,stackoverflow,eclipse,flask,docker,git,bash,jquery,nginx,vscode,bootstrap,discord,github&theme=light)
 
