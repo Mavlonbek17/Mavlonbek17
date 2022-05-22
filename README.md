@@ -61,7 +61,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 
 
-# Hi, Mavlonbek Zaynobiddinov (💻💖☕)
+# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕) And I love Coding
 
 📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
