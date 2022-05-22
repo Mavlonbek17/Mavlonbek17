@@ -86,7 +86,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 * 📽️  Hobby is taking Tech Videos on YouTube
 
-<!-- markdownlint-disable MD033 --> You Tube Channel Statics
+<!-- markdownlint-disable MD033 --> 
 <a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
