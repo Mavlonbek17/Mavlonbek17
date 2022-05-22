@@ -154,7 +154,8 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 <!-- <details> -->
 ## Coding Time : IntelliJ and VsCode
 
-[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="right"&width="45%)](https://github.com/anuraghazra/github-readme-stats)[![Mavlonbek WakaTime Status IntelIj](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="left"&width="45%)](https://github.com/anuraghazra/github-readme-stats)
+[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="right"&width="45%)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
