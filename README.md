@@ -58,7 +58,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 </div> -->
 
 
-[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="right"&width="45%)](https://github.com/anuraghazra/github-readme-stats)[![Mavlonbek WakaTime Status IntelIj](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="left"&width="45%)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # Hi, Mavlonbek Zaynobiddinov (💻💖☕)
@@ -148,6 +148,13 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
     * 📈 GITHUB STATUS
 [![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mavlonbek17/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&theme=tokyonight)](https://github.com/Mavlonbek17/github-readme-stats)
+
+
+
+<!-- <details> -->
+## Coding Time : IntelliJ and VsCode
+
+[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="right"&width="45%)](https://github.com/anuraghazra/github-readme-stats)[![Mavlonbek WakaTime Status IntelIj](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&theme=tokyonight&align="left"&width="45%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
