@@ -82,7 +82,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 * 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
-* 🧠  I'm learning  Java
+* 🧠  Python
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 * 📽️  Hobby is taking Tech Videos on YouTube
