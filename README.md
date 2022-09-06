@@ -99,7 +99,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 ## 🔧 SKILLS and Tools I use
 
-![skills](https://skillicons.dev/icons?i=html,css,c,cs,js,react,mongodb,mysql,py,django,idea,java,stackoverflow,eclipse,flask,docker,git,bash,jquery,nginx,vscode,bootstrap,discord,github&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql,py,django,flask,docker,git,bash,bootstrap,github&theme=light)
 
 ## 🌏 My Community
 <a href="https://discord.gg/KzFmddJ2" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="45" height="45" /></a>
@@ -153,10 +153,6 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 
 <!-- <details> -->
-## Coding Time : IntelliJ and VsCode
-
-[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
