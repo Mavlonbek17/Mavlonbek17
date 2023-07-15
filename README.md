@@ -69,8 +69,7 @@ Software Engineer | Computer Science Student | Daily Learner
 Software Engineer | Computer Science Student | Daily Learner
 -----------------------------------------------------------------
 
-I'm a 3rd year Computer Engineering student. I have been working with Python for the last year.
-
+Python
 * 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
 * 🧠  Python
