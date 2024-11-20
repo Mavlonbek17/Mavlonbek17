@@ -70,12 +70,7 @@ Software Engineer | Computer Science Student | Daily Learner
 -----------------------------------------------------------------
 
 Python
-* 🌍  I live in Warsaw, Poland
-* ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
 * 🧠  Python
-* 🤝  I'm open to collaborate on interesting, fun, cool projects
-* 👨‍💻  I Love Coding | And Open for Job Opportunities
-* 📽️  Hobby is taking Tech Videos on YouTube
 
 <!-- markdownlint-disable MD033 --> 
 <a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
@@ -91,8 +86,6 @@ Python
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql,py,django,flask,docker,git,bash,bootstrap,github&theme=light)
 
-## 🌏 My Community
-<a href="https://discord.gg/KzFmddJ2" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="45" height="45" /></a>
 
 <!-- ## 🍀 Sponsors and Supporters
 
