@@ -25,8 +25,6 @@ Software Engineer | Computer Science Student | Daily Learner
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-### Socials
-<a href="https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a><a href="https://stackoverflow.com/users/17987927/mavlonbek-zaynobiddinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="45" height="45" /></a><a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg/videos" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" width="45" height="45" /></a><a href="https://www.instagram.com/mz_vlogs_/?hl=en" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="45" height="45" /></a>
 
 
 
@@ -135,25 +133,6 @@ Python
 
 
 
-<!-- <details> -->
 
-
-
-
-<!-- </details> -->
-
-<!-- markdownlint-enable MD033 -->
-<!-- 
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
 
 ---
-
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
-
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga -->
