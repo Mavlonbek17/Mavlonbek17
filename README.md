@@ -70,9 +70,6 @@ Software Engineer | Computer Science Student | Daily Learner
 Python
 * 🧠  Python
 
-<!-- markdownlint-disable MD033 --> 
-<a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
 
 ## 🎧 Spotify Playing
 
