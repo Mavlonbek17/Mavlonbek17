@@ -63,20 +63,7 @@ Python
 
 <!--END_SECTION:activity-->
 
-<!-- </details> --> * 🏆 GITHUB AWARDS
 
-<!-- <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/> -->
-
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight)
-
-<!-- </details> -->
-
-<!-- <details> -->
-    * 📈 GITHUB STATUS
-[![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md)
 
 
 
