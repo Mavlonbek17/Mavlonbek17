@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Poland-PL-white?style=for-the-badge&logo=poland-ball&logoColor=red" />
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=mavlonbek17&color=blue&style=flat-square)
+
+
+
 ### 🦾 Technical Diagnostic
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
