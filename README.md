@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/Poland-PL-white?style=for-the-badge&logo=poland-ball&logoColor=red" />
 </p>
 
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
 ---
 
 ### 🦾 System Core (Tech Stack)
