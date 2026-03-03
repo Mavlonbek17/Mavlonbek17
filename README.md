@@ -21,3 +21,9 @@ $ list --tools
 > [■■■■■■□□□□] Docker/K8s (Developing)
 
 $ logout _
+
+
+
+
+### 🎵 Current Frequency
+[![Spotify](https://novatide-spotify-widget.vercel.app/api/now-playing?username=mavlonbek17)](https://open.spotify.com/user/31o6xz3sq767bw3eoqiynupdrayi?si=yeyLR3WXR2yA4zvA2K7ibw)
