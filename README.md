@@ -29,7 +29,7 @@ Python
 
 ## 🔧 SKILLS and Tools I use
 
-![skills](https://skillicons.dev/icons?i=html,django,python,linux&theme=light)
+![skills](https://skillicons.dev/icons?i=html,django,python,linux,kali&theme=light)
 
 
 <!-- ## 🍀 Sponsors and Supporters
