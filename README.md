@@ -11,7 +11,7 @@ $ fetch --profile info
 
 $ list --tools
 > [■■■■■■■■■□] Python (Advanced)
-> [■■■■■■■□□□] Java (Proficient)
+> [■■■■■■■□□□] Linux
 > [■■■■■■□□□□] Docker/K8s (Developing)
 
 $ logout _
