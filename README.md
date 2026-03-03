@@ -27,3 +27,8 @@
 <p align="center">
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mavlonbek17&theme=tokyonight&area=true" width="100%" />
+</p>
