@@ -24,6 +24,6 @@ $ logout _
 
 
 
-
-### 🎵 Current Frequency
-[![Spotify](https://novatide-spotify-widget.vercel.app/api/now-playing?username=mavlonbek17)](https://open.spotify.com/user/31o6xz3sq767bw3eoqiynupdrayi?si=yeyLR3WXR2yA4zvA2K7ibw)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31o6xz3sq767bw3eoqiynupdrayi&cover_image=true&theme=tokyonight" />
+</div>
