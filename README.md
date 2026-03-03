@@ -19,6 +19,15 @@
   </a>
 </p>
 
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mavlonbek17&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</p>
+
+
+
+
 ---
 
 ### 📊 Real-Time Diagnostic Data
