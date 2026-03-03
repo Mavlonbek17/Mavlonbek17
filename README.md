@@ -3,7 +3,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Mavlonbek+🚀;Software+Engineer+@+Dell+Technologies+💻;Automating+the+Future+of+Tech+🧪;Based+in+Poland+🇵🇱" alt="Typing SVG" />
+# ⚡ System Diagnostic: Mavlonbek
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,jenkins,linux&theme=dark" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Automation%20Architect&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
