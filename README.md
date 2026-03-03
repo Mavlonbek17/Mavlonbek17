@@ -3,12 +3,17 @@
 
 <div align="center">
 
+<div align="center">
+
 # ⚡ System Diagnostic: Mavlonbek
-<p align="left">
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,jenkins,linux&theme=dark" />
   </a>
 </p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Automation%20Architect&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
