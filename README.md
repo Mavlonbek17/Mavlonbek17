@@ -23,7 +23,7 @@
 
 | **Core** | **Testing** | **DevOps** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,java,js" /> | <img src="https://skillicons.dev/icons?i=selenium,postman" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" /> |
+| <img src="https://skillicons.dev/icons?i=python,linux,kali,pytest" /> | <img src="https://skillicons.dev/icons?i=selenium,postman" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" /> |
 
 </div>
 
