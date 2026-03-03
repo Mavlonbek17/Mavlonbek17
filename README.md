@@ -31,3 +31,15 @@
 </p>
 
 </div>
+
+
+
+
+<div align="center">
+
+### 🕹️ Terminal Mini-Game: Minesweeper
+<a href="https://github.com/mavlonbek17/mavlonbek17/issues/new?body=new+game">
+  <img src="https://raw.githubusercontent.com/mavlonbek17/mavlonbek17/main/minesweeper-game/board.png" width="400px" />
+</a>
+
+</div>
