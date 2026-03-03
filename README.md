@@ -1,9 +1,9 @@
 <div align="center">
 
-# ⚡ [Mavlonbek Zaynobiddinov]
+# ⚡ Mavlonbek Zaynobiddinov
 ### Software Engineer @ Dell Technologies | Automation Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6/)
 [![Location](https://img.shields.io/badge/Poland-🇵🇱-white?style=for-the-badge)](https://en.wikipedia.org/wiki/Poland)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=poly&logoColor=white)](YOUR_PORTFOLIO_URL)
 
