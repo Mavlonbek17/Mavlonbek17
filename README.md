@@ -22,7 +22,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mavlonbek17&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
 </p>
 
 
