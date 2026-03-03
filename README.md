@@ -1,65 +1,41 @@
-<!-- Hi 👋 My name is Mavlonbek Zaynobiddinov
-============================
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+# 👋 Hi, I'm Mavlonbek Zaynobiddinov
+### Software Engineer at Dell Technologies | Test Automation Specialist
 
-Software Engineer | Computer Science Student | Daily Learner
-----------------------------------------------------------------
-
-# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕)
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-Software Engineer | Computer Science Student | Daily Learner
------------------------------------------------------------------
-
-Python
-* 🧠  Python
-
-
-## 🔧 SKILLS and Tools I use
-
-![skills](https://skillicons.dev/icons?i=django,python,linux,kali&theme=light)
-
-
-<!-- ## 🍀 Sponsors and Supporters
-
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com) -->
-
-<!-- and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do! -->
+Building resilient, high-performance automation frameworks to ensure software excellence at scale. Based in **Poland 🇵🇱** and contributing to the global infrastructure at **Dell Technologies**.
 
 ---
 
-<!-- markdownlint-disable MD033 -->
-
-<!-- <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
-- [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
-- [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
-- [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
-- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- </details> --> -->
-
-<!-- <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu) -->
-
-<!--END_SECTION:activity-->
-
-
-
-
-
-
+### 🚀 Professional Focus
+* **Test Automation:** Designing and maintaining robust automated test suites to reduce manual overhead.
+* **CI/CD Integration:** Streamlining deployment pipelines for faster, more reliable releases.
+* **Quality Engineering:** Shifting testing "left" to catch bugs early in the development lifecycle.
+* **Scalability:** Ensuring Dell’s enterprise-level software meets the highest standards of reliability.
 
 ---
+
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python |
+| **Automation** | Selenium, PyTest|
+| **DevOps/Cloud** | Docker, Kubernetes, Jenkins, Git/GitHub Actions |
+| **Observability** | Jira, Confluence |
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect With Me
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **Portfolio/Blog:** [yourwebsite.com](https://yourwebsite.com)
+* **Location:** Warsaw/Gdansk/Remote, Poland 🇵🇱
+
+---
+
+### ⚡ Fun Fact
+When I'm not writing code to test code, I'm likely taking a photo in the nature.
