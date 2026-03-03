@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Automation%20Architect&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Automating%20the%20World-success?style=for-the-badge&logo=github&logoColor=white" />
