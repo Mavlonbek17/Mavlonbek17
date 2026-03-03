@@ -1,8 +1,3 @@
-### 🏙️ 3D Activity Map
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
 ### 🎵 System Soundtrack
 <p align="center">
   <a href="https://open.spotify.com/user/31o6xz3sq767bw3eoqiynupdrayi">
