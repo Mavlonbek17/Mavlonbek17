@@ -1,41 +1,53 @@
-# 👋 Hi, I'm Mavlonbek Zaynobiddinov
-### Software Engineer at Dell Technologies | Test Automation Specialist
+<div align="center">
 
-Building resilient, high-performance automation frameworks to ensure software excellence at scale. Based in **Poland 🇵🇱** and contributing to the global infrastructure at **Dell Technologies**.
+# ⚡ [Mavlonbek Zaynobiddinov]
+### Software Engineer @ Dell Technologies | Automation Architect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Location](https://img.shields.io/badge/Poland-🇵🇱-white?style=for-the-badge)](https://en.wikipedia.org/wiki/Poland)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=poly&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-### 🚀 Professional Focus
-* **Test Automation:** Designing and maintaining robust automated test suites to reduce manual overhead.
-* **CI/CD Integration:** Streamlining deployment pipelines for faster, more reliable releases.
-* **Quality Engineering:** Shifting testing "left" to catch bugs early in the development lifecycle.
-* **Scalability:** Ensuring Dell’s enterprise-level software meets the highest standards of reliability.
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Quality%20at%20Scale&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python |
-| **Automation** | Selenium, PyTest|
-| **DevOps/Cloud** | Docker, Kubernetes, Jenkins, Git/GitHub Actions |
-| **Observability** | Jira, Confluence |
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavlonbek17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavlonbek17&layout=compact&theme=radical)
+### 🖋️ The Brief
+> "I bridge the gap between rapid development and rock-solid reliability. Currently engineering automated test ecosystems at **Dell Technologies**, ensuring enterprise infrastructure remains bulletproof."
 
 ---
 
-### 🤝 Connect With Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio/Blog:** [yourwebsite.com](https://yourwebsite.com)
-* **Location:** Warsaw/Gdansk/Remote, Poland 🇵🇱
+### 🛠️ Technical Arsenal
+<div align="center">
+
+| **Core** | **Testing** | **DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,java,js" /> | <img src="https://skillicons.dev/icons?i=selenium,postman" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" /> |
+
+</div>
 
 ---
 
-### ⚡ Fun Fact
-When I'm not writing code to test code, I'm likely taking a photo in the nature.
+### 📊 Engineering Metrics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### ⚡ Recent Activity
+* 🚀 Optimizing CI/CD latency for Dell's [Specific Department]
+* 🧪 Architecting a new Python-based framework for [Specific Tool]
+* 📖 Mentoring junior engineers on "Clean Code" in Automation
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it." />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=PROFILE%20VIEWS&color=0078D4&style=flat-square" alt="views" />
+</p>
