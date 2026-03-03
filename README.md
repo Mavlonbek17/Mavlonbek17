@@ -39,13 +39,6 @@
 
 ---
 
-### 🌍 Global Reach (Visitor Map)
-<p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=mavlonbek17&theme=dark&mode=flag_map" width="80%" />
-</p>
-
----
-
 ### 🎵 Current Frequency (Spotify)
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
