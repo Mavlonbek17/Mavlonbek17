@@ -1,8 +1,6 @@
 <div align="center">
 
 <p align="center">
-<img src="https://readmeterminal.vercel.app/api?name=SYSTEM%20DIAGNOSTIC&user=mavlonbek17&color=0078D4&line1=OS:%20Dell%20Automation%20Core&line2=Location:%20Warsaw,%20Poland&line3=Uptime:%20100%25&line4=Status:%20Optimizing%20Infrastructure" width="100%" />
-</p>
 
 # ⚡ Mavlonbek | Automation Architect
 
